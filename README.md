@@ -41,4 +41,12 @@ Simple pubsub for node.js using rabbitmq.
 ### Note
 
 Requires a slightly modified version of node-amqp which is included 
-in the `lib/` folder & in the installation.
+in the `npm` installation. 
+
+To make it work from git, use the following installation:
+
+    git clone http://github.com/flashingpumpkin/node-pubsub.git
+    cd node-pubsub/lib
+    git clone http://github.com/flashingpumpkin/node-amqp.git
+    
+
