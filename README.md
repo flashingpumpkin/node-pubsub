@@ -38,6 +38,12 @@ Simple pubsub for node.js using rabbitmq.
 
     npm install pubsub
 
+### Documentation
+
+...can be found (here)[http://flashingpumpkin.github.com/pubsub/docs/pubsub.html]
+
+(<3 (docco)[http://jashkenas.github.com/docco/])
+
 ### Note
 
 Requires a slightly modified version of node-amqp which is included 
