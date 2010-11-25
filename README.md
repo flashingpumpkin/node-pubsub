@@ -40,9 +40,9 @@ Simple pubsub for node.js using rabbitmq.
 
 ### Documentation
 
-...can be found (here)[http://flashingpumpkin.github.com/node-pubsub/docs/pubsub.html]
+...can be found [here](http://flashingpumpkin.github.com/node-pubsub/docs/pubsub.html)
 
-(<3 (docco)[http://jashkenas.github.com/docco/])
+(<3 [docco](http://jashkenas.github.com/docco/))
 
 ### Note
 
