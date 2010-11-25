@@ -7,7 +7,7 @@
         "pubsub",
         "rabbitmq"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Alen Mujezinovic <alen@caffeinehit.com>",
     "licenses": [{
         "type": "MIT",
@@ -25,4 +25,7 @@
         "lib" : "./lib"
     },
     "main": "./lib/pubsub",
+    "dependencies": {
+        "underscore": "*"
+    }
 }
